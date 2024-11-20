@@ -3,7 +3,7 @@
 
 Welcome to the **Next.js 15** and **React 19** documentation! This guide will help new developers learn and build projects using the latest features of Next.js and React.
 
-![Next.js Logo]('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13DpXfc1_RayzN0ecY0-p_ws7TK3sxpO6w&s')
+![Next.js Logo](Nextjs_logo.jpeg)
 
 ---
 
