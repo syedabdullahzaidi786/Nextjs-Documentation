@@ -1,4 +1,3 @@
-```markdown
 ## 📘 Next.js 15 & React 19 Beginner's Guide
 
 Welcome to the **Next.js 15** and **React 19** documentation! This guide will help new developers learn and build projects using the latest features of Next.js and React.
@@ -65,10 +64,10 @@ Here's how the project is organized:
 ## 🖼 Screenshots & Demo
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)
+![Home Page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35jqiGbeeQEtuZZoFDE1JAw_kR6HxhKEtSA&s)
 
 ### About Page
-![About Page](https://via.placeholder.com/800x400.png?text=About+Page)
+![About Page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAtRpTqgfVygD3OH-dapzNmHqF1FH314z_w&s)
 
 ---
 
