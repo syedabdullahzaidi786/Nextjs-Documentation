@@ -1,5 +1,5 @@
 ```markdown
-# 📘 Next.js 15 & React 19 Beginner's Guide
+## 📘 Next.js 15 & React 19 Beginner's Guide
 
 Welcome to the **Next.js 15** and **React 19** documentation! This guide will help new developers learn and build projects using the latest features of Next.js and React.
 
