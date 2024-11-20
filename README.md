@@ -124,13 +124,3 @@ If you encounter any issues or have questions, feel free to:
 ---
 
 Happy coding! 🎉
-```
-
-### Documentation Tips:
-1. **Add Images:** Replace placeholder images with real screenshots or diagrams.
-2. **Interactive GIFs:** Use tools like [LiceCap](https://licecap.en.softonic.com/) to create GIFs of app workflows.
-3. **Use Shields:** Add badges at the top for build status, license, etc., like:
-   ```markdown
-   ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-   ![License](https://img.shields.io/badge/license-MIT-blue)
-   ```
